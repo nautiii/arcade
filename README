@@ -1,0 +1,16 @@
+Project: ARCADE
+
+MADE BY:
+    mouad.berrehal@epitech.eu
+    guillaume.olivier@epitech.eu
+    quentin.maillard@epitech.eu
+
+IN COLLABORATION WITH:
+    antoine.poisson@epitech.eu
+    charles.mertz@epitech.eu
+    jeremie1.bourgeois@epitech.eu
+
+DEPENDENCIES:
+    libcaca
+    aa-lib
+    sfml
